@@ -2,7 +2,6 @@
 
 
 [![linkedin](https://img.shields.io/static/v1?label=linkedin&message=htavakoli&color=0077b5&logo=linkedin)](https://www.linkedin.com/in/htavakoli/)
-[![stackoverflow](https://img.shields.io/static/v1?label=stackoverflow&message=hamid-tavakoli&color=0077b5&logo=stackoverflow)](https://stackoverflow.com/users/602165/hamid-tavakoli)
 
 
 ![expert react](https://img.shields.io/static/v1?label=react&logo=react&message=expert)
