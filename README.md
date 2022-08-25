@@ -13,4 +13,4 @@
 Hamid has over a decade of experience with client- and server-side web development. He is passionate about creating scalable web applications.
 ️
 
-[Shoot me a note](mailto:hamid.careers+github@gmail.com?subject=Just%20a%20note&body=Hi%20Hamid)  📫   
+[Shoot me a note](mailto:hamid.careers+github@gmail.com?subject=Just%20a%20note&body=Hi%20Hamid)  📫
